@@ -1,0 +1,9 @@
+{
+  "name": "Amadea: Your AI Travel Concierge",
+  "description": "A sophisticated travel assistant built for the Amadeus Hackathon, leveraging Gemini for personalized itineraries and real-time insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
